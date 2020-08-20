@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteMemory</string>
+    <string name="title_home">Главная</string>
+    <string name="title_category">Категории</string>
+    <string name="add_icon_descriptoion">Add new note for categories</string>
+    <string name="dialog_add_note_text">Текст напоминания</string>
+    <string name="add_text">Добавить</string>
+</resources>
